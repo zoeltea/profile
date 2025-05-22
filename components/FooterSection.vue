@@ -14,23 +14,22 @@
       <div class="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
         <!-- Logo & Description -->
         <div class="col-span-2">
-          <h3 class="text-2xl font-bold text-white mb-4">Iyong</h3>
+          <h3 class="text-2xl font-bold text-white mb-4">Zul</h3>
           <p class="text-gray-400 mb-6 max-w-md">
-            Software Developer specializing in building exceptional digital experiences that make people's lives
-            simpler.
+            Software Engineer | Quality Assurance Engineer with over 9 years of experience Quality Assurance and Software Engineer.
           </p>
           <div class="flex gap-4">
-            <a href="https://github.com/Iyongbudiarso/" target="_blank"
+            <a href="https://github.com/zoeltea/" target="_blank"
               class="text-gray-400 hover:text-white transition-colors" aria-label="Visit my GitHub profile">
               <i class="fab fa-github text-2xl" aria-hidden="true"></i>
               <span class="sr-only">GitHub</span>
             </a>
-            <a href="https://www.linkedin.com/in/iyongbudiarso/" target="_blank"
+            <a href="https://www.linkedin.com/in/zul-yatman-442787100" target="_blank"
               class="text-gray-400 hover:text-white transition-colors" aria-label="Visit my LinkedIn profile">
               <i class="fab fa-linkedin text-2xl" aria-hidden="true"></i>
               <span class="sr-only">LinkedIn</span>
             </a>
-            <a href="mailto:iyongbudiarso@gmail.com" class="text-gray-400 hover:text-white transition-colors"
+            <a href="mailto:zoeltea@gmail.com" class="text-gray-400 hover:text-white transition-colors"
               aria-label="Send me an email">
               <i class="fas fa-envelope text-2xl" aria-hidden="true"></i>
               <span class="sr-only">Email</span>
@@ -56,7 +55,7 @@
 
       <!-- Copyright -->
       <div class="pt-8 border-t border-[#252525] text-center">
-        <p class="text-gray-400">© {{ new Date().getFullYear() }} Iyong. All rights reserved.</p>
+        <p class="text-gray-400">© {{ new Date().getFullYear() }} Zul. All rights reserved.</p>
       </div>
     </div>
   </footer>

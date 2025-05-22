@@ -13,18 +13,23 @@
         </div>
         <div
           class="flex flex-col items-center bg-[#121212] p-6 rounded-xl border border-[#252525] hover:border-blue-400 transition-colors w-32">
-          <img src="@/assets/icon/edunex.png" alt="Edunex" class="w-16 h-16 mb-4">
-          <span class="text-gray-300 font-medium">Edunex</span>
+          <img src="@/assets/icon/vidio.png" alt="Vidio" class="w-16 h-16 mb-4">
+          <span class="text-gray-300 font-medium">Vidio</span>
         </div>
         <div
           class="flex flex-col items-center bg-[#121212] p-6 rounded-xl border border-[#252525] hover:border-blue-400 transition-colors w-32">
-          <img src="@/assets/icon/bri.png" alt="BRI" class="w-16 h-16 mb-4">
-          <span class="text-gray-300 font-medium">BRI</span>
+          <img src="@/assets/icon/bbm.png" alt="BBM" class="w-16 h-16 mb-4">
+          <span class="text-gray-300 font-medium">BBM</span>
         </div>
         <div
           class="flex flex-col items-center bg-[#121212] p-6 rounded-xl border border-[#252525] hover:border-blue-400 transition-colors w-32">
-          <img src="@/assets/icon/maxsol.png" alt="Maxsol" class="w-16 h-16 mb-4">
-          <span class="text-gray-300 font-medium">Maxsol</span>
+          <img src="@/assets/icon/aprisma.png" alt="Wirecard" class="w-16 h-16 mb-4">
+          <span class="text-gray-300 font-medium">Wirecard</span>
+        </div>
+        <div
+          class="flex flex-col items-center bg-[#121212] p-6 rounded-xl border border-[#252525] hover:border-blue-400 transition-colors w-32">
+          <img src="@/assets/icon/aprisma.png" alt="aprisma" class="w-16 h-16 mb-4">
+          <span class="text-gray-300 font-medium">aprisma</span>
         </div>
       </div>
     </div>

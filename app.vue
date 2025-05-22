@@ -53,10 +53,7 @@ useHead({
   meta: [
     {
       name: 'description',
-      content: 'Hallo, my name is zul.
-I start career as IT support at gas and oil drilling services company for 4 years then to be java developer for 3 months. I received offering for Test engineer and Software Engineer. I already working as Test engineer and today as Software Engineer.
-My experiences Test engineer in Wirecard, BBM messanger, Vidio.com, Bukalapak and Software Engineer in Bukalapak.
-As Test engineer then Software Engineer with 9 Years of Experience specializing in Golang, Ruby, PHP - Ready to Accelerate Innovation in Your Team'
+      content: 'Hallo, my name is zul. I start career as IT support at gas and oil drilling services company for 4 years then to be java developer for 3 months. I received offering for Test engineer and Software Engineer. I already working as Test engineer and today as Software Engineer. My experiences Test engineer in Wirecard, BBM messanger, Vidio.com, Bukalapak and Software Engineer in Bukalapak. As Test engineer then Software Engineer with 9 Years of Experience specializing in Golang, Ruby, PHP - Ready to Accelerate Innovation in Your Team'
     },
     // Open Graph
     {
@@ -65,7 +62,7 @@ As Test engineer then Software Engineer with 9 Years of Experience specializing 
     },
     {
       property: 'og:description',
-      content: 'Software Engineer | Quality Assurance Engineer with over 9 years of experience specializing in Vue.js, React, and full-stack development.'
+      content: 'Software Engineer | Quality Assurance Engineer with over 9 years of experience Quality Assurance and Software Engineer.'
     },
     {
       property: 'og:type',

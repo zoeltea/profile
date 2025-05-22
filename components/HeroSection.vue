@@ -5,7 +5,7 @@
         <!-- Left Column - Software Engineer | Quality Assurance Engineer -->
         <div class="text-left relative">
           <h1 class="text-4xl md:text-6xl font-bold mb-6 text-white">
-            Hi, I'm <span class="text-blue-400">Iyong</span>
+            Hi, I'm <span class="text-blue-400">Zul</span>
           </h1>
           <h2 class="text-2xl md:text-4xl text-blue-400 mb-4">Software Engineer | Quality Assurance Engineer</h2>
           <p class="text-lg text-gray-300 mb-8">Passionate about creating innovative backend solutions with clean code and

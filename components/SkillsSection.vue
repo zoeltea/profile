@@ -18,21 +18,7 @@
         </button>
 
         <!-- Skills Carousel -->
-        <div class="overflow-hidden">
-          <div class="flex transition-transform duration-500 ease-in-out"
-            :style="{ transform: `translateX(-${currentSlide * 100}%)` }">
-            <div v-for="(group, index) in skillGroups" :key="index" class="w-full flex-shrink-0">
-              <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 px-12">
-                <div v-for="skill in group" :key="skill.name"
-                  class="flex flex-col items-center bg-[#121212] p-10 rounded-2xl border border-[#252525] hover:border-blue-400 transition-colors"
-                  role="button" tabindex="0" :aria-label="`${skill.name} skill`">
-                  <i :class="skill.icon" class="text-4xl text-blue-400 mb-4" aria-hidden="true"></i>
-                  <span class="text-gray-300 font-medium">{{ skill.name }}</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+
 
         <!-- Dots Navigation -->
         <div class="flex justify-center mt-8 space-x-2">
